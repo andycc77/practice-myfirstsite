@@ -1,6 +1,8 @@
 @extends('layout')
 @section('title','laracasts')
 @section('content')
-    <h1>My first Website.</h1>
+<h1>About Us</h1>
+<p>
+    fsfsfs
+</p>
 @endsection
-
